@@ -1,9 +1,9 @@
-## German Apple Pie
+German Apple Pie
 
-### Ingredients:
-(26 cm Springform)
+Ingredients:
+(for 26 cm Springform)
 
-**Dough:**
+Dough:
 
 - 300 g flour
 - 1/2 pack German baking powder
@@ -12,7 +12,7 @@
 - 1 egg
 - 175 g butter
 
-**Filling:**
+Filling:
 
 - 1.5 kg apples (pick a sort with a distinctive taste and a little tartness)
 - 50 g sugar (or to taste)
@@ -20,7 +20,7 @@
 - 1/2 tsp cinnamon (or to taste)
 - 50 g butter
 
-### How To
+How To
 
 Put flour in a big bowl, add baking powder, sugar and vanilla sugar. Mix well.  
 Add egg and butter in little pieces. Knead together to form a dough.  
@@ -38,6 +38,4 @@ Roll the rest of the dough into round shape to make the lid.
 Take pan out of the oven, fill with apple filling, put lid on top and carefully connect rim and lid.  
 Continue baking at the same temperature for about 30-40 minutes.  
 
-
-
-
+Status: 03.11.2015

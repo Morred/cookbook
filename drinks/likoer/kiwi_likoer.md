@@ -1,12 +1,12 @@
-## Kiwi-Likör
+Kiwi-Likör
 
-### Ingredients
+Ingredients
 
 - 700 ml Vodka
 - 700 g kiwifruit (peeled and chopped)
 - 140 g rock sugar (white)
 
-### How To
+How To
 
 Put all ingredients into a large glass jar with a firmly closable lid.  
 Stir well.  
@@ -14,4 +14,4 @@ Keep in a dark place for about two weeks. Occasionally swivel or slightly shake 
 Filter through a strainer and then through cheesecloth to remove all solids.  
 Fill into bottles, firmly close and let rest for at least another four weeks.  
 
-_Status: 03.11.2015_
+Status: 03.11.2015
